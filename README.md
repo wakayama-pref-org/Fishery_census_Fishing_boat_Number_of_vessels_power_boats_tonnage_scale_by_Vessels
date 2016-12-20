@@ -1,4 +1,4 @@
-# Fishery_census_Fishing_boat_Number_of_vessels,_power_boats_tonnage_scale_by_Vessels
+# fishery_census_fishing_boat_number_of_vessels_power_boats_tonnage_scale_by_vessels
 　【和歌山県　漁業センサス です。】
 ◆漁業センサスとは
 我が国の漁業の生産構造、就業構造を明らかにするとともに、漁村、水産物流通・加工業等の漁業を取り巻く実態と変化を総合的に把握するために、 統計法に基づき、５年ごとに実施している基幹統計調査です。
